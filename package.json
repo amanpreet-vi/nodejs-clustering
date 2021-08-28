@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "node noncluster.js"
+    "test1": "node noncluster.js",
+    "test2": "node withcluster.js"
   },
   "repository": {
     "type": "git",
